@@ -1,8 +1,3 @@
-a. Linxuan Guo or Bill Guo
-
-b. 8774216947
-
-c. I have only completed the required part and it works perfectly
 
 d.serverM: readMembers Function: Reads a file containing usernames and passwords, storing them in an unordered_map. 
 communicateWithDepartmentServer Function: Communicates with department servers using UDP to request book statuses. It sends a book code to the department server and receives a response.
@@ -36,9 +31,5 @@ The program waits for a response from the server regarding the status of the req
 The response is interpreted as either "not found" or the number of available copies, and appropriate messages are displayed.
 
 
-e. the printout messages are exactly the same as they are required in the project description. For simple testing as it's shown in the project pdf, you can simply put John, then Pa@$w0rd, then enter the book you want to get
 
-g. the code worked perfectly
-
-h. no
 
